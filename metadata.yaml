@@ -37,6 +37,8 @@ creator:
     gutenberg_agent_id: '35425'
     url: http://www.gutenberg.org/2009/agents/35425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44934#Captives-Among-the-Indians
 gutenberg_issued: '2014-02-16'
 gutenberg_type: Text
 identifiers:
