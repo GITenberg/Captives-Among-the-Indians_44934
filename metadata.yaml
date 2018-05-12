@@ -1,0 +1,57 @@
+_repo: Captives-Among-the-Indians_44934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44934-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Harbison, Massy
+    alias: Harbison, Mercy
+    birthdate: 1770
+    gutenberg_agent_id: '42996'
+    url: http://www.gutenberg.org/2009/agents/42996
+  - agent_name: Rowlandson, Mary White
+    alias: White, Mary
+    deathdate: 1711
+    gutenberg_agent_id: '445'
+    url: http://www.gutenberg.org/2009/agents/445
+    wikipedia: http://womenshistory.about.com/library/bio/blbio_mary_rowlandson.htm
+  - agent_name: Smith, James
+    birthdate: 1737
+    deathdate: 1812
+    gutenberg_agent_id: '4477'
+    url: http://www.gutenberg.org/2009/agents/4477
+    wikipedia: https://en.wikipedia.org/wiki/James_Smith_(frontiersman)
+  - agent_name: Bressani, Francesco Giuseppe
+    aliases:
+    - Bressani, Francois-Joseph
+    - Bressani, François-Joseph
+    birthdate: 1612
+    deathdate: 1672
+    gutenberg_agent_id: '42995'
+    url: http://www.gutenberg.org/2009/agents/42995
+  editor:
+    agent_name: Kephart, Horace
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '35425'
+    url: http://www.gutenberg.org/2009/agents/35425
+description: ''
+gutenberg_issued: '2014-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44934'
+  lccn: '15006233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indian captivities -- Northeastern States'
+- !lcc 'E011'
+tableOfContents: Colonel James Smith's life among the Delawares, 1755-1759 -- Father
+  Bressani's captivity among the Iroquois, 1644 -- Captivity of Mrs. Mary Rowlandson
+  among the Indians of Massachusetts, 1676 -- Capture and escape of Mercy Harbison,
+  1792.
+title: Captives Among the Indians
+url: http://www.gutenberg.org/ebooks/44934
